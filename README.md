@@ -16,6 +16,7 @@ Compare the efficiency of two HF (or VHF) antennas transmitting FT8 simultaneous
 <br><br>Be aware that the PSKReporter data that AntennaCompare uses is limited to only a few accesses every 10 minutes or so (WSPRNet is somewhat more generous). 
 <br>When you get data for both call signs, don't change the time or call signs unless you absolutely need to... the data is cached so you can adjust some options (between the two divider lines) with no problem. 
 <br><br>
-<a href="https://antenna-compare-web.vercel.app/">
-<img src="https://github.com/avantol/AntennaCompare/blob/main/AntennaCompare-web.jpg"></a>
+<a href="https://antenna-compare-web2.vercel.app/">
+<img src="https://github.com/avantol/antenna-compare-web2/blob/main/AntennaCompare2.jpg">
+</a>
 
